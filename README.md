@@ -17,3 +17,5 @@ dos encontros, são de 50%.
  
  Na classe 'model.py', nas linhas 38 e 48, os valores de empréstimos para a pessoa ser considerada de classe Pobre ou Média foram alterados de 10 para 20, permitindo que eles 
  possam fazer mais empréstimos e conseguirem uma situação mais estável antes de entrarem na classe Pobre.
+ 
+ Para a utilização do simulador, basta abrir o terminal no diretório onde se encontram as pastas contendo os respectivos códigos fonte e digitar o seguinte comando: mesa runserver examples/charts
